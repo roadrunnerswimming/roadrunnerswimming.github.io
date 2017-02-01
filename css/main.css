@@ -57,7 +57,7 @@ a:focus {
 }
 .navbar-custom {
   margin-bottom: 0;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+  border-bottom: 1px solid #f15a22;
   text-transform: uppercase;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   background-color: black;
@@ -117,7 +117,7 @@ a:focus {
   .navbar-custom.top-nav-collapse {
     padding: 0;
     background: black;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+    border-bottom: 1px solid #f15a22;
   }
 }
 .intro {
@@ -237,10 +237,24 @@ a:focus {
   color: white;
   background: url(../img/membership-bg.jpg) no-repeat center center scroll;
   background-color: black;
+  border-top: 1px solid #f15a22;
+  border-bottom: 1px solid #f15a22;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
+}
+.swimmeets-section {
+  width: 100%;
+  color: white;
+  background: url(../img/membership-bg.jpg) no-repeat center center scroll;
+  background-color: black;
+  border-top: 1px solid #f15a22;
+  border-bottom: 1px solid #f15a22;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover; 
 }
 .background-layer {
   background-color: #0c2340;
@@ -254,6 +268,7 @@ a:focus {
   list-style: none;
   color: #f15a22;
   font-size: 120%;
+  padding-left: 0;
 }
 #map {
   width: 100%;
@@ -315,6 +330,8 @@ ul.banner-social-buttons {
   }
 }
 footer {
+  background: black;
+  border-top: 1px solid #f15a22;
   padding: 50px 0;
 }
 footer p {
