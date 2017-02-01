@@ -270,6 +270,9 @@ a:focus {
   font-size: 120%;
   padding-left: 0;
 }
+.calendar {
+  height:200px;
+}
 #map {
   width: 100%;
   height: 200px;
@@ -289,6 +292,9 @@ a:focus {
   .portfolio-item {
     margin: 0 0 30px;
   }
+  .calendar {
+  height:400px;
+}
 }
 .btn {
   text-transform: uppercase;
