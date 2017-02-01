@@ -272,6 +272,7 @@ a:focus {
 }
 .calendar {
   height:200px;
+  width: 100px;
 }
 #map {
   width: 100%;
@@ -293,7 +294,8 @@ a:focus {
     margin: 0 0 30px;
   }
   .calendar {
-  height:400px;
+  height: 400px;
+  width: 600px;
 }
 }
 .btn {
