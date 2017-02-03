@@ -281,8 +281,8 @@ a:focus {
 .officer-caption {
   background: white;
   margin-bottom: 10px;
-  margin-left: 10px;
-  margin-right: 10px;
+  margin-left: 70px;
+  margin-right: 70px;
   color: black;
   border-radius: 5px;
   font-weight: 800;
@@ -290,8 +290,8 @@ a:focus {
 .officer-pos {
   background: #f15a22;
   margin-bottom: 40px;
-  margin-left: 10px;
-  margin-right: 10px;
+  margin-left: 70px;
+  margin-right: 70px;
   color: black;
   border-radius: 5px;
 }
@@ -381,6 +381,14 @@ a:focus {
     height: 200px;
     border-radius: 5px;
     margin-bottom: 20px;
+  }
+  .officer-caption {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  .officer-pos {
+    margin-left: 10px;
+    margin-right: 10px;
   }
 }
 .btn {
