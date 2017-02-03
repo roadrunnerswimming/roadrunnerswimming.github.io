@@ -256,6 +256,22 @@ a:focus {
   background-size: cover;
   -o-background-size: cover; 
 }
+.sponsors-section {
+  width: 100%;
+  color: white;
+  background: url(../img/sponsors-bg.jpg) no-repeat center center scroll;
+  background-color: black;
+  border-top: 1px solid #f15a22;
+  border-bottom: 1px solid #f15a22;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover; 
+}
+.records-image {
+  width: 400px;
+  height: 300px;
+}
 .background-layer {
   background-color: #0c2340;
   opacity: 0.8;
@@ -312,6 +328,10 @@ a:focus {
   .youtube-video {
     width: 560px;
     height: 315px;
+  }
+  .records-image {
+    width: 700px;
+    height: 600px;
   }
 }
 .btn {
