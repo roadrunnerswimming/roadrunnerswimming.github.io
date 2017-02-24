@@ -310,7 +310,7 @@ a:focus {
   padding-left: 0;
 }
 .calendar {
-  height:200px;
+  height:300px;
   width: 300px;
 }
 .youtube-video {
@@ -346,8 +346,8 @@ a:focus {
     margin: 0 0 30px;
   }
   .calendar {
-    height: 400px;
-    width: 600px;
+    height: 500px;
+    width: 700px;
   }
   .youtube-video {
     width: 560px;
