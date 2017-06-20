@@ -318,10 +318,10 @@ a:focus {
   
 }
 .membership-list {
-  list-style: none;
+  text-align: left;
   color: #f15a22;
   font-size: 140%;
-  padding-left: 0;
+  padding-left: 40px;
   font-weight: 600;
 }
 .calendar {
