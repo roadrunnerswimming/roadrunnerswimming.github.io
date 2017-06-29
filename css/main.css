@@ -147,7 +147,7 @@ a:focus {
 @media (min-aspect-ratio: 1500/800){
 .intro .intro-body .brand-heading {
     font-size: 100px;
-    padding-top: 50px;
+    padding-top: 100px;
   }
 }
 @media (min-width: 768px) {
