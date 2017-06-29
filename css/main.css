@@ -305,6 +305,10 @@ a:focus {
   border-radius: 10px;
   font-weight: 800;
 }
+.snap-icon {
+    width: 100px;
+    height: 100px;
+  }
 .background-layer {
   background-color: #0c2340;
   opacity: 0.9;
@@ -385,6 +389,10 @@ a:focus {
   .officer-pos {
     margin-left: 10px;
     margin-right: 10px;
+  }
+  .snap-icon {
+    width: 200px;
+    height: 200px;
   }
 }
 .btn {
